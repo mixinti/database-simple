@@ -1,0 +1,10 @@
+*.db
+*.db-journal
+*.db-wal
+*.sqlite
+*.sqlite3
+
+.vscode/
+.idea/
+*.log
+.dbeaver/
